@@ -1,0 +1,16 @@
+Saya akan membuat toko online yang terdiri dari 4 bagian yaitu:
+header, banner, product, footer.
+dimana isi dari header adalah : menu, kolom pencarian, register, login.
+dimana isi dari banner adalah 2 kolom satu banner statis, satu banner dinamis.
+dimana isi dari product adalah : gambar dan nama product.
+dimana isi dari footer berisi gambar, nama produk, harga.
+footer berisi menu, pembayaran, media sosial, dan juga kontak.
+buatkan halaman htmlnya saja
+
+Buatkan css menggunakan bootstrap untuk html
+
+
+
+tambahkan menu keranjang
+buat agar home, produk, tentang, kontak, dan keranjang bisa digunakan
+saya menginginkan 
